@@ -1,26 +1,37 @@
 {
   "project_info": {
-    "project_number": "1052906154940",
-    "project_id": "taskmanagement-f51d2",
-    "storage_bucket": "taskmanagement-f51d2.appspot.com"
+    "project_number": "273093450273",
+    "firebase_url": "https://taskmanagement-22dcd-default-rtdb.firebaseio.com",
+    "project_id": "taskmanagement-22dcd",
+    "storage_bucket": "taskmanagement-22dcd.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1052906154940:android:68784b1b712742fa9bd9b9",
+        "mobilesdk_app_id": "1:273093450273:android:30a6f5f74c1fb236056160",
         "android_client_info": {
           "package_name": "com.example.taskmanagement"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "273093450273-k2t7444l63vrolnbmae16bcrath0dqoc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
-          "current_key": "AIzaSyAhMk2OHN50PPKAzqQvkUgKkp5_v_hxRpE"
+          "current_key": "AIzaSyDRQKWWMxWFT_wdZEI4hkOELVsjLSV_N54"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "273093450273-k2t7444l63vrolnbmae16bcrath0dqoc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }

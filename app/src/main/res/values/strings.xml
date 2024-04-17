@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">TaskManagement</string>
+    <string name="default_web_client_id" translatable="false">taskmanagement-22dcd</string>
+    <string name="register">REGISTER</string>
+    <string name="login_email_hint">Email</string>
+    <string name="login_password_hint">Password</string>
+    <string name="signup_login_hint">Already have an account? Sign In</string>
+    <string name="login_signup_hint">Don\'t have an account? Sign Up</string>
+    <string name="username">Username</string>
+    <string name="search">Search...</string>
 </resources>
